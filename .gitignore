@@ -1,0 +1,6 @@
+*.swp
+package-lock.json
+*.egg-info
+
+.dccache
+.DS_Store
