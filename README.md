@@ -23,10 +23,10 @@ refer [DEVELOPMENT_GUIDE](./operations/DEVELOPMENT_GUIDE.md)
 ## Considerations
 
 The customisations are tested with below versions of Service Workbench and are not
-guranteed to work with all versions. Please perform your own testing
+guaranteed to work with all versions. Please perform your own testing
 if working with a different than listed below
 
-- 5.2.7
+- 6.0.0
 
 For an existing Service Workbench installation, account re-onboarding is required
 to use Elastic Fleets in AppStream. Be mindful of any existing research workspaces while
