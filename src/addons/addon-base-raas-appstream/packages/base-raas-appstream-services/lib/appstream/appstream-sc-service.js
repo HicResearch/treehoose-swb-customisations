@@ -141,6 +141,7 @@ class AppStreamScService extends Service {
           UserId: this.generateUserId(requestContext, environment),
           ApplicationId: applicationId,
           SessionContext: sessionContext,
+          Validity: 30,
         })
         .promise();
     } catch (err) {
